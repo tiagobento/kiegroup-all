@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ 
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.tiagobento</groupId>
+  <artifactId>kiegroup-all</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>All KieGroup repositories</name>
+  
+  <url>http://github.com/kiegroup</url>
+  
+
+  <modules>
+    <module>uberfire</module>
+    <module>appformer</module>
+    <module>kie-uberfire-extensions</module>
+    <module>dashbuilder</module>
+    <module>guvnor</module>
+    <!-- <module>droolsjbpm-integration</module> -->
+    <module>kie-wb-common</module>
+    <!-- <module>jbpm-form-modeler</module> -->
+    <module>drools-wb</module>
+    <!-- <module>jbpm-designer</module> -->
+    <module>jbpm-wb</module>
+    <module>optaplanner-wb</module>
+    <!-- <module>kie-wb-distributions</module> -->
+  </modules>
+</project>
