@@ -168,16 +168,29 @@ war/appformer
 
 
 #submodules
+dashbuilder/**
 dashbuilder
+drools-wb/**
 drools-wb
+droolsjbpm-integration/**
 droolsjbpm-integration
+guvnor/**
 guvnor
+jbpm-designer/**
 jbpm-designer
+jbpm-form-modeler/**
 jbpm-form-modeler
+jbpm-wb/**
 jbpm-wb
+kie-uberfire-extensions/**
 kie-uberfire-extensions
+kie-wb-common/**
 kie-wb-common
+kie-wb-distributions/**
 kie-wb-distributions
+optaplanner-wb/**
 optaplanner-wb
+uberfire/*
 uberfire
+appformer/**
 appformer
