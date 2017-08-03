@@ -7,7 +7,8 @@ After cloning...
 
 `mvn clean install --fail-at-end;`
 
-Sit back and wait :)
+NOTE: Setting `MAVEN_OPTS="-Xmx8192m"` may be necessary.
+
 
 Choosing what to build
 ---
