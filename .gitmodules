@@ -2,51 +2,64 @@
 	path = uberfire
 	url = https://github.com/uberfire/uberfire
 	branch = master
+	ignore = all
 [submodule "kie-uberfire-extensions"]
 	path = kie-uberfire-extensions
 	url = https://github.com/kiegroup/kie-uberfire-extensions
 	branch = master
+	ignore = all
 [submodule "droolsjbpm-integration"]
 	path = droolsjbpm-integration
 	url = https://github.com/kiegroup/droolsjbpm-integration
 	branch = master
+	ignore = all
 [submodule "kie-wb-common"]
 	path = kie-wb-common
 	url = https://github.com/kiegroup/kie-wb-common
 	branch = master
+	ignore = all
 [submodule "jbpm-form-modeler"]
 	path = jbpm-form-modeler
 	url = https://github.com/kiegroup/jbpm-form-modeler
 	branch = master
+	ignore = all
 [submodule "drools-wb"]
 	path = drools-wb
 	url = https://github.com/kiegroup/drools-wb
 	branch = master
+	ignore = all
 [submodule "jbpm-designer"]
 	path = jbpm-designer
 	url = https://github.com/kiegroup/jbpm-designer
 	branch = master
+	ignore = all
 [submodule "optaplanner-wb"]
 	path = optaplanner-wb
 	url = https://github.com/kiegroup/optaplanner-wb
 	branch = master
+	ignore = all
 [submodule "kie-wb-distributions"]
 	path = kie-wb-distributions
 	url = https://github.com/kiegroup/kie-wb-distributions
 	branch = master
+	ignore = all
 [submodule "dashbuilder"]
 	path = dashbuilder
 	url = https://github.com/dashbuilder/dashbuilder
 	branch = master
+	ignore = all
 [submodule "guvnor"]
 	path = guvnor
 	url = https://github.com/kiegroup/guvnor
 	branch = master
+	ignore = all
 [submodule "appformer"]
 	path = appformer
 	url = https://github.com/kiegroup/appformer
 	branch = master
+	ignore = all
 [submodule "jbpm-wb"]
 	path = jbpm-wb
 	url = https://github.com/kiegroup/jbpm-wb
 	branch = master
+	ignore = all
