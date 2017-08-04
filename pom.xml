@@ -19,14 +19,15 @@
     <module>appformer</module>
     <module>kie-uberfire-extensions</module>
     <module>dashbuilder</module>
-    <module>guvnor</module>
-    <!-- <module>droolsjbpm-integration</module> -->
+    <module>guvnor</module> <!-- git checkout afeabff5dbecb96238f9a18e949937f4d4989645 -->
+    <module>droolsjbpm-integration</module> <!-- git checkout 492435cfdd7beb4f340c71ae472cec54e6ce1438 -->
     <module>kie-wb-common</module>
-    <!-- <module>jbpm-form-modeler</module> -->
+    <module>jbpm-form-modeler</module>
     <module>drools-wb</module>
-    <!-- <module>jbpm-designer</module> -->
+    <module>jbpm-designer</module>
     <module>jbpm-wb</module>
     <module>optaplanner-wb</module>
-    <!-- <module>kie-wb-distributions</module> -->
+    <module>kie-wb-distributions</module> <!-- git checkout cbea9f702f84d8d2f806f00ce4fd2e103fce849b -->
   </modules>
+
 </project>
