@@ -3,13 +3,17 @@ After cloning...
 
 `git submodule init;`
 
-`git submodule foreach git checkout master;`
+`git submodule update --remote`
 
-`git submodule foreach git pull origin master;`
+`git submodule foreach git checkout master;` #just to be sure
+
+`git submodule foreach git pull origin master;` #just to be sure
 
 `mvn clean install --fail-at-end;`
 
 **NOTE:** Setting `MAVEN_OPTS="-Xmx8192m"` may be necessary.
+
+**NOTE2:** Creating an alias for `git submodule foreach` can come in handy. (e.g. `alias gsf='git submodule foreach'`)
 
 
 Choosing what to build
