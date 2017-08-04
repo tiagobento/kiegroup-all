@@ -3,7 +3,9 @@ After cloning...
 
 `git submodule init;`
 
-`git submodule update --remote;`
+`git submodule foreach git checkout master;`
+
+`git submodule foreach git pull origin master;`
 
 `mvn clean install --fail-at-end;`
 
