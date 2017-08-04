@@ -63,3 +63,8 @@
 	url = https://github.com/kiegroup/jbpm-wb
 	branch = master
 	ignore = all
+[submodule "errai"]
+	path = errai
+	url = https://github.com/errai/errai
+	branch = master
+	ignore = all

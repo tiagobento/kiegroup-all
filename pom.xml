@@ -15,6 +15,7 @@
   
 
   <modules>
+    <module>errai</module>
     <module>uberfire</module>
     <module>appformer</module>
     <module>kie-uberfire-extensions</module>
