@@ -17,7 +17,7 @@ After cloning...
 
 **TIP:** Add all your forks: e.g. `gsf "pwd | xargs basename | xargs -I{} git remote add fork https://github.com/tiagobento/{} || echo 'Ignore'"`
 
-**TIP2:** Prevent from accidentaly pushing to origin `git remote set-url --push origin no_push`.
+**TIP2:** Prevent from accidentaly pushing to origin `gsf git remote set-url --push origin no_push`.
 
 
 Choosing what to build
