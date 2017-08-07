@@ -3,7 +3,7 @@ After cloning...
 
 `git submodule init;`
 
-`git submodule update --remote`
+`git submodule update --remote;`
 
 `git submodule foreach git checkout master;` #just to be sure
 
@@ -14,6 +14,10 @@ After cloning...
 **NOTE:** Setting `MAVEN_OPTS="-Xmx8192m"` may be necessary.
 
 **NOTE2:** Creating an alias for `git submodule foreach` can come in handy. (e.g. `alias gsf='git submodule foreach'`)
+
+**TIP:** Add all your forks: e.g. `gsf "pwd | xargs basename | xargs -I{} git remote add fork https://github.com/tiagobento/{} || echo 'Ignore'"`
+
+**TIP2:** Prevent from accidentaly pushing to origin `git remote set-url --push origin no_push`.
 
 
 Choosing what to build
