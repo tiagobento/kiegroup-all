@@ -68,3 +68,8 @@
 	url = https://github.com/errai/errai
 	branch = master
 	ignore = all
+[submodule "droolsjbpm-knowledge"]
+	path = droolsjbpm-knowledge
+	url = https://github.com/kiegroup/droolsjbpm-knowledge
+	branch = master
+	ignore = all

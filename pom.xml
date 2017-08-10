@@ -17,7 +17,7 @@
   <modules>
     <module>errai</module>
     <module>uberfire</module>
-    <module>appformer</module>
+    <!-- <module>appformer</module> -->
     <module>kie-uberfire-extensions</module>
     <module>dashbuilder</module>
     <module>guvnor</module> <!-- git checkout afeabff5dbecb96238f9a18e949937f4d4989645 -->
