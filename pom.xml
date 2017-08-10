@@ -22,6 +22,7 @@
     <module>dashbuilder</module>
     <module>guvnor</module> <!-- git checkout afeabff5dbecb96238f9a18e949937f4d4989645 -->
     <module>droolsjbpm-integration</module> <!-- git checkout 492435cfdd7beb4f340c71ae472cec54e6ce1438 -->
+    <module>droolsjbpm-knowledge</module>
     <module>kie-wb-common</module>
     <module>jbpm-form-modeler</module>
     <module>drools-wb</module>
