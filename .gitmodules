@@ -78,3 +78,8 @@
 	url = https://github.com/kiegroup/droolsjbpm-build-bootstrap
 	branch = master
 	ignore = all
+[submodule "kie-soup"]
+	path = kie-soup
+	url = https://github.com/kiegroup/kie-soup
+	branch = master
+	ignore = all

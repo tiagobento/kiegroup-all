@@ -15,22 +15,16 @@
   
 
   <modules>
+  	<module>errai</module>
     <module>droolsjbpm-build-bootstrap</module>
-    <module>errai</module>
-    <module>uberfire</module>
-    <module>kie-uberfire-extensions</module>
-    <module>dashbuilder</module>
+    <module>kie-soup</module>
     <module>appformer</module>
-    <module>guvnor</module>
-    <module>droolsjbpm-integration</module>
-    <module>droolsjbpm-knowledge</module>
     <module>kie-wb-common</module>
-    <module>jbpm-form-modeler</module>
-    <module>drools-wb</module>
+    <module>drools-wb</module><!-- 
     <module>jbpm-designer</module>
     <module>jbpm-wb</module>
     <module>optaplanner-wb</module>
-    <module>kie-wb-distributions</module>
+    <module>kie-wb-distributions</module> -->
   </modules>
 
 </project>
