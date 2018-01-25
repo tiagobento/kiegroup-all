@@ -15,16 +15,19 @@
   
 
   <modules>
+    <module>drools</module>
+    <module>jbpm</module>
+    <module>optaplanner</module>
   	<module>errai</module>
     <module>droolsjbpm-build-bootstrap</module>
     <module>kie-soup</module>
     <module>appformer</module>
     <module>kie-wb-common</module>
-    <module>drools-wb</module><!-- 
+    <module>drools-wb</module>
     <module>jbpm-designer</module>
     <module>jbpm-wb</module>
     <module>optaplanner-wb</module>
-    <module>kie-wb-distributions</module> -->
+    <module>kie-wb-distributions</module>
   </modules>
 
 </project>
