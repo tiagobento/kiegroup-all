@@ -15,7 +15,7 @@ After cloning...
 
 **NOTE2:** Creating an alias for `git submodule foreach` can come in handy. (e.g. `alias gsf='git submodule foreach'`)
 
-**TIP:** Add all your forks: e.g. `gsf "pwd | xargs basename | xargs -I{} git remote add fork https://github.com/tiagobento/{} || echo 'Ignore'"`
+**TIP:** Add all your forks: e.g. `gsf "pwd | xargs basename | xargs -I{} git remote add fork git@github.com:github_user/{}.git || echo 'Ignore'"`
 
 **TIP2:** Prevent from accidentaly pushing to origin `gsf git remote set-url --push origin no_push`.
 
