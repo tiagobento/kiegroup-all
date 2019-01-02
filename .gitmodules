@@ -88,3 +88,8 @@
 	url = https://github.com/kiegroup/kie-wb-distributions
 	branch = master
 	ignore = all
+[submodule "lienzo-core"]
+	path = lienzo-core
+	url = https://github.com/kiegroup/lienzo-core.git
+	branch = master
+	ignore = all
