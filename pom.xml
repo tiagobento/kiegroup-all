@@ -18,8 +18,9 @@
     <module>drools</module>
     <module>jbpm</module>
     <module>optaplanner</module>
-  	<module>errai</module>
     <module>droolsjbpm-build-bootstrap</module>
+    <module>droolsjbpm-integration</module>
+  	<module>errai</module>
     <module>kie-soup</module>
     <module>appformer</module>
     <module>kie-wb-common</module>
